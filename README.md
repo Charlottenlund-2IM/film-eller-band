@@ -12,4 +12,7 @@ I denne oppgaven skal du lage en webside om en film eller et band eller artist d
 [Se video](https://tronder-my.sharepoint.com/:v:/g/personal/karda_trondelagfylke_no/EX4npwVMHHFDknynUoLGQCgBPZO7-k6gt7r1l-bBCmoFTA?e=wyNj6Z)
 
 ## Oppgave 3
+Synkroniser nettsiden din med Github desktop
+
+## Oppgave 4
 Publiser nettsiden din med Github pages
